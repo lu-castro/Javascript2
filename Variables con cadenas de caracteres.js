@@ -8,4 +8,11 @@ console.log(barraInvertida);
 /* Esta cadena de caracteres va a imprimir comillas dentro de las barras 
 invertidas del string */
 
-
+/* \`  COMILLA SIMPLE */
+/* \"  COMILLA DOBLE  */
+/* \\  BARRA INVERTIDA*/
+/* \n  LÍNEA NUEVA */
+/* \r  RETORNO DE CARRO */
+/* \t  TABULACIÓN */
+/* \b  RETROCESO  */
+/* \f  SALTO DE PÁGINA */
