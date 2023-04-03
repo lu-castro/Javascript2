@@ -27,4 +27,19 @@ console.log(mensajeCompleto += parteFinal); /* Concatenar cadenas en console.log
 var miCadena = "Hola mundo";
 console.log(miCadena); /* muestra el contenido de mi cadena en pantalla  */
 
-miCadena[0] = "H"; // VERDADERO / Devuelve valor Booleano dependendiendo de el valor de string en la posición 0
+miCadena[0] = "H"; // VERDADERO // Devuelve valor Booleano dependendiendo de el valor 
+                                // de string en la posición 0
+
+
+/* SUMANDO STRINGS */
+var uno = "a mí";
+var dos = "perro";
+var tres = "le";
+var cuatro = "gusta";
+var cinco= "pasear";
+
+var fraseCompleta = uno + dos + tres + cuatro + cinco; /* dará como resultado la frase completa sin espacios */
+
+var fraseCompleta = uno + "" + dos + "" + tres + "" + cuatro + "" + cinco; /* da como resultado la frase con espacios */
+
+console.log(fraseCompleta);
