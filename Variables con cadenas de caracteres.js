@@ -23,3 +23,8 @@ var parteFinal = "con Javascript";
 
 console.log(mensajeCompleto += parteFinal); /* Concatenar cadenas en console.log */
 
+
+var miCadena = "Hola mundo";
+console.log(miCadena); /* muestra el contenido de mi cadena en pantalla  */
+
+miCadena[0] = "H"; // VERDADERO / Devuelve valor Booleano dependendiendo de el valor de string en la posición 0
