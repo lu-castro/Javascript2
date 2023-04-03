@@ -16,3 +16,10 @@ invertidas del string */
 /* \t  TABULACIÓN */
 /* \b  RETROCESO  */
 /* \f  SALTO DE PÁGINA */
+
+
+var mensajeCompleto = "Estoy aprendiendo a programar";
+var parteFinal = "con Javascript"; 
+
+console.log(mensajeCompleto += parteFinal); /* Concatenar cadenas en console.log */
+
